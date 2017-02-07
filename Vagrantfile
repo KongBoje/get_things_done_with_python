@@ -95,6 +95,11 @@ Vagrant.configure("2") do |config|
     # OpenCV, such as matrix operations
     sudo apt-get install -y libatlas-base-dev gfortran
 
+    # install graphviz to allow for graph plotting
+    sudo apt-get install -y graphviz graphviz-dev
+
+    sudo apt-get install imagemagick
+
     # Install Python 3, Pip and some other tools
     sudo apt-get -y install python3 python3-pip python3.4-dev
 
@@ -128,10 +133,15 @@ Vagrant.configure("2") do |config|
     pip install pillow
     pip install ipython[notebook]
     pip install openpyxl
+    pip install networkx
+    pip install pygraphviz
     pip install selenium
     pip install pygal
     pip install bokeh
     pip install folium
+    pip install watson-developer-cloud
+    pip install beautifulsoup4
+
     # This is necessary to get matplotlib support from system-wide
     # Debian package
     toggleglobalsitepackages
