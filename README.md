@@ -14,6 +14,11 @@ Always 8:30 to 12:00 in room 103
     * [02-Getting Started.ipynb](notebooks/02-Getting Started.ipynb)
 
   * Wednesday, 08 February, 2017
+
+    * [03-A Whirlwind Tour through Python!.ipynb](notebooks/03-A Whirlwind Tour through Python!.ipynb)
+    * [04-Lists.ipynb](notebooks/04-Lists.ipynb)
+    * [05-Loops.ipynb](notebooks/05-Loops.ipynb)
+
   * Friday, 10 February, 2017
   * Wednesday, 15 February, 2017
   * Wednesday, 22 February, 2017
