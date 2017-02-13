@@ -20,7 +20,15 @@ Always 8:30 to 12:00 in room 103
     * [05-Loops.ipynb](notebooks/05-Loops.ipynb)
 
   * Friday, 10 February, 2017
+
+    * [06-Conditional Statements.ipynb](notebooks/06-Conditional Statements.ipynb)
+    * [07-Functions and Modules.ipynb](notebooks/07-Functions and Modules.ipynb)
+    * [08-Dictionaries.ipynb](notebooks/08-Dictionaries.ipynb)
+
   * Wednesday, 15 February, 2017
+
+    ** TODO: until Tuesday, 14 February 24:00 ** Find an open dataset and formulate a question on that. Upload a markdown document (`README.md`) containing the description of the dataset, a link to it, and the corresponding question to a Github repository lastest on Tuesday, 14 February 24:00. This is a task per group.
+
   * Wednesday, 22 February, 2017
   * Friday, 24 February, 2017
   * Wednesday, 01 March, 2017
