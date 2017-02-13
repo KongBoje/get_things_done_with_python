@@ -27,7 +27,7 @@ Always 8:30 to 12:00 in room 103
 
   * Wednesday, 15 February, 2017
 
-    ** TODO: until Tuesday, 14 February 24:00 ** Find an open dataset and formulate a question on that. Upload a markdown document (`README.md`) containing the description of the dataset, a link to it, and the corresponding question to a Github repository lastest on Tuesday, 14 February 24:00. This is a task per group.
+    **TODO: until Tuesday, 14 February 24:00** Find an open dataset and formulate a question on that. Upload a markdown document (`README.md`) containing the description of the dataset, a link to it, and the corresponding question to a Github repository lastest on Tuesday, 14 February 24:00. This is a task per group.
 
   * Wednesday, 22 February, 2017
   * Friday, 24 February, 2017
