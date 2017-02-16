@@ -31,16 +31,50 @@ Always 8:30 to 12:00 in room 103
 
     Find an open dataset and formulate a question on that. Upload a markdown document (`README.md`) containing the description of the dataset, a link to it, and the corresponding question to a Github repository lastest on Tuesday, 14 February 24:00. This is a task per group.
 
+    * [09-CLI Programs.ipynb](notebooks/09-CLI Programs.ipynb)
+    * [10-Object-oriented Programming.ipynb](notebooks/10-Object-oriented Programming.ipynb)
+    * [12-Exceptions.ipynb](notebooks/12-Exceptions.ipynb)
+
+
   * Wednesday, 22 February, 2017
   * Friday, 24 February, 2017
   * Wednesday, 01 March, 2017
+    * 1st Group Dataset Presentation
+    * Implementation start
+
   * Wednesday, 08 March, 2017
+
+    * Presentation of group results
+    * 2nd group dataset presentation
+    * Implementation start"
+
   * Friday, 10 March, 2017
   * Wednesday, 15 March, 2017
+
+    * Presentation of group results
+    * 3rd group dataset presentation
+    * Implementation start
+
   * Wednesday, 22 March, 2017
+
+    * Presentation of group results
+    * 4th group dataset presentation
+    * Implementation start
+
   * Friday, 24 March, 2017
   * Wednesday, 29 March, 2017
+
+    * Presentation of group results
+    * 5th group dataset presentation
+    * Implementation start
+
+
   * Wednesday, 05 April, 2017
+
+    * Presentation of group results
+    * 6th group dataset presentation
+    * Implementation start
+
   * Friday, 07 April, 2017
   * (Easter week)
   * Wednesday, 19 April, 2017
