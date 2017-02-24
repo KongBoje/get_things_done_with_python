@@ -37,9 +37,15 @@ Always 8:30 to 12:00 in room 103
 
 
   * Wednesday, 22 February, 2017
+
+    * [13-Working with Files.ipynb](notebooks/13-Working with Files.ipynb)
+
   * Friday, 24 February, 2017
+
+    * * [14-Intro to Plotting.ipynb](notebooks/14-Intro to Plotting.ipynb)
+
   * Wednesday, 01 March, 2017
-    * 1st Group Dataset Presentation
+    * 1st Group Dataset Presentation **Frantic Midnight**
     * Implementation start
 
   * Wednesday, 08 March, 2017
