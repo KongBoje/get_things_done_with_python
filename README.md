@@ -45,41 +45,42 @@ Always 8:30 to 12:00 in room 103
     * * [14-Intro to Plotting.ipynb](notebooks/14-Intro to Plotting.ipynb)
 
   * Wednesday, 01 March, 2017
-    * 1st Group Dataset Presentation **Frantic Midnight**
-    * Implementation start
+    * 1st group dataset presentation **Frantic Midnight**
+    * https://github.com/DaMexicanJustice/frantic_midnight
+    * Hand-in: 7. 3. 2017 24:00 via Github
 
   * Wednesday, 08 March, 2017
 
     * Presentation of group results
-    * 2nd group dataset presentation
-    * Implementation start"
+    * 2nd group dataset presentation **Jealous Secretary**
+    * Hand-in: 14. 3. 2017 24:00 via Github
 
   * Friday, 10 March, 2017
   * Wednesday, 15 March, 2017
 
     * Presentation of group results
-    * 3rd group dataset presentation
-    * Implementation start
+    * 3rd group dataset presentation **Enthusiastic Phone**
+    * Hand-in: 21. 3. 2017 24:00 via Github
 
   * Wednesday, 22 March, 2017
 
     * Presentation of group results
-    * 4th group dataset presentation
-    * Implementation start
+    * 4th group dataset presentation **Depressed Year**
+    * Hand-in: 28. 3. 2017 24:00 via Github
 
   * Friday, 24 March, 2017
   * Wednesday, 29 March, 2017
 
     * Presentation of group results
-    * 5th group dataset presentation
-    * Implementation start
+    * 5th group dataset presentation **Unruly Knife**
+    * Hand-in: 4. 4. 2017 24:00 via Github
 
 
   * Wednesday, 05 April, 2017
 
     * Presentation of group results
     * 6th group dataset presentation
-    * Implementation start
+    * Hand-in: 18. 3. 2017 24:00 via Github
 
   * Friday, 07 April, 2017
   * (Easter week)
