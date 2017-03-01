@@ -42,12 +42,15 @@ Always 8:30 to 12:00 in room 103
 
   * Friday, 24 February, 2017
 
-    * * [14-Intro to Plotting.ipynb](notebooks/14-Intro to Plotting.ipynb)
+    * [14-Intro to Plotting.ipynb](notebooks/14-Intro to Plotting.ipynb)
 
   * Wednesday, 01 March, 2017
     * 1st group dataset presentation **Frantic Midnight**
     * https://github.com/DaMexicanJustice/frantic_midnight
     * Hand-in: 7. 3. 2017 24:00 via Github
+
+    * [15-Plotting Continued - Bokeh.ipynb](notebooks/15-Plotting Continued - Bokeh.ipynb)
+    * [16-Intro to Numpy.ipynb](notebooks/16-Intro to Numpy.ipynb)
 
   * Wednesday, 08 March, 2017
 
