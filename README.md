@@ -56,7 +56,9 @@ Always 8:30 to 12:00 in room 103
 
     * Presentation of group results
     * 2nd group dataset presentation **Jealous Secretary**
+    * https://github.com/cph-al/pythonDataset/blob/master/README.md
     * Hand-in: 14. 3. 2017 24:00 via Github
+    * [17-Intro to Pandas.ipynb](notebooks/17-Intro to Pandas.ipynb)
 
   * Friday, 10 March, 2017
   * Wednesday, 15 March, 2017
