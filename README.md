@@ -61,6 +61,9 @@ Always 8:30 to 12:00 in room 103
     * [17-Intro to Pandas.ipynb](notebooks/17-Intro to Pandas.ipynb)
 
   * Friday, 10 March, 2017
+
+    * Introduction to graphs and the PageRank Algorithm
+
   * Wednesday, 15 March, 2017
 
     * Presentation of group results
@@ -76,6 +79,7 @@ Always 8:30 to 12:00 in room 103
   * Friday, 24 March, 2017
   * Wednesday, 29 March, 2017
 
+    * **Guest Lecture with Simon**
     * Presentation of group results
     * 5th group dataset presentation **Unruly Knife**
     * Hand-in: 4. 4. 2017 24:00 via Github
