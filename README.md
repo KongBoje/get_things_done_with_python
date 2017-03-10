@@ -63,6 +63,7 @@ Always 8:30 to 12:00 in room 103
   * Friday, 10 March, 2017
 
     * Introduction to graphs and the PageRank Algorithm
+    * [18-Graphs and PageRank.ipynb](notebooks/18-Graphs and PageRank.ipynb)
 
   * Wednesday, 15 March, 2017
 
