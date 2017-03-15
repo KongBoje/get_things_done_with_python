@@ -69,6 +69,7 @@ Always 8:30 to 12:00 in room 103
 
     * Presentation of group results
     * 3rd group dataset presentation **Enthusiastic Phone**
+    * https://github.com/stinaanita/python_data
     * Hand-in: 21. 3. 2017 24:00 via Github
 
   * Wednesday, 22 March, 2017
