@@ -90,8 +90,8 @@ Always 8:30 to 12:00 in room 103
   * Wednesday, 05 April, 2017
 
     * Presentation of group results
-    * 6th group dataset presentation
-    * Hand-in: 18. 3. 2017 24:00 via Github
+    * 6th group dataset presentation  **Motionless Revolution**
+    * Hand-in: 18. 4. 2017 24:00 via Github
 
   * Friday, 07 April, 2017
   * (Easter week)
