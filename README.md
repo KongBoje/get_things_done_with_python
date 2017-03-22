@@ -21,8 +21,8 @@ Always 8:30 to 12:00 in room 103
 
   * Friday, 10 February, 2017
 
-    * [06-Conditional\ Statements.ipynb](notebooks/06-Conditional Statements.ipynb)
-    * [07-Functions\ and\ Modules.ipynb](notebooks/07-Functions and Modules.ipynb)
+    * [06-Conditional Statements.ipynb](notebooks/06-Conditional\ Statements.ipynb)
+    * [07-Functions and Modules.ipynb](notebooks/07-Functions\ and Modules.ipynb)
     * [08-Dictionaries.ipynb](notebooks/08-Dictionaries.ipynb)
 
   * Wednesday, 15 February, 2017
