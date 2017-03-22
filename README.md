@@ -11,7 +11,7 @@ Always 8:30 to 12:00 in room 103
   * Wednesday, 01 February, 2017
 
     * [01-Intro.ipynb](notebooks/01-Intro.ipynb)
-    * [02-Getting\ Started.ipynb](notebooks/02-Getting Started.ipynb)
+    * [02-Getting Started.ipynb](notebooks/02-Getting\ Started.ipynb)
 
   * Wednesday, 08 February, 2017
 
