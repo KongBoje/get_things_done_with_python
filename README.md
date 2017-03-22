@@ -71,12 +71,15 @@ Always 8:30 to 12:00 in room 103
     * 3rd group dataset presentation **Enthusiastic Phone**
     * https://github.com/stinaanita/python_data
     * Hand-in: 21. 3. 2017 24:00 via Github
+    * [19-Intro\ to\ Requests.ipynb](notebooks/19-Intro\ to\ Requests.ipynb)
 
   * Wednesday, 22 March, 2017
 
     * Presentation of group results
     * 4th group dataset presentation **Depressed Year**
+    * https://github.com/edipetres/Depressed_Year/tree/master/Dataset_Assignment
     * Hand-in: 28. 3. 2017 24:00 via Github
+    * [20-Web Scraping Basics.ipynb](notebooks/20-Web Scraping Basics.ipynb)
 
   * Friday, 24 March, 2017
   * Wednesday, 29 March, 2017
