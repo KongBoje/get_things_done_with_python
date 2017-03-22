@@ -11,11 +11,11 @@ Always 8:30 to 12:00 in room 103
   * Wednesday, 01 February, 2017
 
     * [01-Intro.ipynb](notebooks/01-Intro.ipynb)
-    * [02-Getting Started.ipynb](notebooks/02-Getting\ Started.ipynb)
+    * [02-Getting Started.ipynb](notebooks/02-Getting%20Started.ipynb)
 
   * Wednesday, 08 February, 2017
 
-    * [03-A Whirlwind Tour through Python!.ipynb](notebooks/03-A\ Whirlwind Tour\ through\ Python!.ipynb)
+    * [03-A Whirlwind Tour through Python!.ipynb](notebooks/03-A%20Whirlwind Tour%20through%20Python!.ipynb)
     * [04-Lists.ipynb](notebooks/04-Lists.ipynb)
     * [05-Loops.ipynb](notebooks/05-Loops.ipynb)
 
@@ -30,26 +30,26 @@ Always 8:30 to 12:00 in room 103
 
     Find an open dataset and formulate a question on that. Upload a markdown document (`README.md`) containing the description of the dataset, a link to it, and the corresponding question to a Github repository lastest on Tuesday, 14 February 24:00. This is a task per group.
 
-    * [09-CLI Programs.ipynb](notebooks/09-CLI Programs.ipynb)
-    * [10-Object-oriented\ Programming.ipynb](notebooks/10-Object-oriented Programming.ipynb)
+    * [09-CLI Programs.ipynb](notebooks/09-CLI%20Programs.ipynb)
+    * [10-Object-oriented Programming.ipynb](notebooks/10-Object-oriented%20Programming.ipynb)
     * [12-Exceptions.ipynb](notebooks/12-Exceptions.ipynb)
 
 
   * Wednesday, 22 February, 2017
 
-    * [13-Working\ with\ Files.ipynb](notebooks/13-Working with Files.ipynb)
+    * [13-Working with Files.ipynb](notebooks/13-Working%20with%20Files.ipynb)
 
   * Friday, 24 February, 2017
 
-    * [14-Intro\ to\ Plotting.ipynb](notebooks/14-Intro to Plotting.ipynb)
+    * [14-Intro to Plotting.ipynb](notebooks/14-Intro%20to%20Plotting.ipynb)
 
   * Wednesday, 01 March, 2017
     * 1st group dataset presentation **Frantic Midnight**
     * https://github.com/DaMexicanJustice/frantic_midnight
     * Hand-in: 7. 3. 2017 24:00 via Github
 
-    * [15-Plotting\ Continued\ -\ Bokeh.ipynb](notebooks/15-Plotting Continued - Bokeh.ipynb)
-    * [16-Intro\ to\ Numpy.ipynb](notebooks/16-Intro to Numpy.ipynb)
+    * [15-Plotting Continued - Bokeh.ipynb](notebooks/15-Plotting%20Continued%20-%20Bokeh.ipynb)
+    * [16-Intro to Numpy.ipynb](notebooks/16-Intro%20to%20Numpy.ipynb)
 
   * Wednesday, 08 March, 2017
 
@@ -57,12 +57,12 @@ Always 8:30 to 12:00 in room 103
     * 2nd group dataset presentation **Jealous Secretary**
     * https://github.com/cph-al/pythonDataset/blob/master/README.md
     * Hand-in: 14. 3. 2017 24:00 via Github
-    * [17-Intro\ to\ Pandas.ipynb](notebooks/17-Intro to Pandas.ipynb)
+    * [17-Intro to Pandas.ipynb](notebooks/17-Intro%20to%20Pandas.ipynb)
 
   * Friday, 10 March, 2017
 
     * Introduction to graphs and the PageRank Algorithm
-    * [18-Graphs\ and\ PageRank.ipynb](notebooks/18-Graphs and PageRank.ipynb)
+    * [18-Graphs and PageRank.ipynb](notebooks/18-Graphs%20and%20PageRank.ipynb)
 
   * Wednesday, 15 March, 2017
 
@@ -70,7 +70,7 @@ Always 8:30 to 12:00 in room 103
     * 3rd group dataset presentation **Enthusiastic Phone**
     * https://github.com/stinaanita/python_data
     * Hand-in: 21. 3. 2017 24:00 via Github
-    * [19-Intro\ to\ Requests.ipynb](notebooks/19-Intro to Requests.ipynb)
+    * [19-Intro to Requests.ipynb](notebooks/19-Intro%20to%20Requests.ipynb)
 
   * Wednesday, 22 March, 2017
 
@@ -78,7 +78,7 @@ Always 8:30 to 12:00 in room 103
     * 4th group dataset presentation **Depressed Year**
     * https://github.com/edipetres/Depressed_Year/tree/master/Dataset_Assignment
     * Hand-in: 28. 3. 2017 24:00 via Github
-    * [20-Web\ Scraping\ Basics.ipynb](notebooks/20-Web Scraping Basics.ipynb)
+    * [20-Web Scraping Basics.ipynb](notebooks/20-Web%20Scraping%20Basics.ipynb)
 
   * Friday, 24 March, 2017
   * Wednesday, 29 March, 2017
