@@ -15,14 +15,13 @@ Always 8:30 to 12:00 in room 103
 
   * Wednesday, 08 February, 2017
 
-    * [03-A Whirlwind\ Tour\ through\ Python!.ipynb](notebooks/03-A Whirlwind Tour through Python!.ipynb)
+    * [03-A Whirlwind Tour through Python!.ipynb](notebooks/03-A\ Whirlwind Tour\ through\ Python!.ipynb)
     * [04-Lists.ipynb](notebooks/04-Lists.ipynb)
     * [05-Loops.ipynb](notebooks/05-Loops.ipynb)
 
   * Friday, 10 February, 2017
-
-    * [06-Conditional Statements.ipynb](notebooks/06-Conditional\ Statements.ipynb)
-    * [07-Functions and Modules.ipynb](notebooks/07-Functions\ and Modules.ipynb)
+    * [06-Conditional Statements.ipynb](notebooks/06-Conditional%20Statements.ipynb)
+    * [07-Functions and Modules.ipynb](notebooks/07-Functions%20and%20Modules.ipynb)
     * [08-Dictionaries.ipynb](notebooks/08-Dictionaries.ipynb)
 
   * Wednesday, 15 February, 2017
