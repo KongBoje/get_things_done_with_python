@@ -84,8 +84,10 @@ Always 8:30 to 12:00 in room 103
   * Wednesday, 29 March, 2017
 
     * **Guest Lecture with Simon**
+    * [Simon's Slides](guest_lecture/Python%20i%20Bolighed-v2.pdf)
     * Presentation of group results
     * 5th group dataset presentation **Unruly Knife**
+    * https://github.com/szEIgo/UnrulyKnife
     * Hand-in: 4. 4. 2017 24:00 via Github
 
 
