@@ -15,7 +15,7 @@ Always 8:30 to 12:00 in room 103
 
   * Wednesday, 08 February, 2017
 
-    * [03-A Whirlwind Tour through Python!.ipynb](notebooks/03-A%20Whirlwind Tour%20through%20Python!.ipynb)
+    * [03-A Whirlwind Tour through Python!.ipynb](notebooks/03-A%20Whirlwind%20Tour%20through%20Python!.ipynb)
     * [04-Lists.ipynb](notebooks/04-Lists.ipynb)
     * [05-Loops.ipynb](notebooks/05-Loops.ipynb)
 
@@ -81,6 +81,9 @@ Always 8:30 to 12:00 in room 103
     * [20-Web Scraping Basics.ipynb](notebooks/20-Web%20Scraping%20Basics.ipynb)
 
   * Friday, 24 March, 2017
+
+    * [21-Regular Expressions and Selenium.ipynb](notebooks/21-Regular%20Expressions%20and%20Selenium.ipynb)
+
   * Wednesday, 29 March, 2017
 
     * **Guest Lecture with Simon**
@@ -94,8 +97,11 @@ Always 8:30 to 12:00 in room 103
   * Wednesday, 05 April, 2017
 
     * Presentation of group results
-    * 6th group dataset presentation  **Motionless Revolution**
+    * 6th group dataset presentation **Motionless Revolution**
+    * https://github.com/Shmilowitz/PythonIMDbExercise
     * Hand-in: 18. 4. 2017 24:00 via Github
+    * [22-MeanShift.ipynb](notebooks/22-MeanShift.ipynb)
+
 
   * Friday, 07 April, 2017
   * (Easter week)
