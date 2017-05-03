@@ -104,15 +104,28 @@ Always 8:30 to 12:00 in room 103
 
 
   * Friday, 07 April, 2017
+    * [23-Perceptron Classifier.ipynb](notebooks/23-Perceptron%20Classifier.ipynb)
   * (Easter week)
   * Wednesday, 19 April, 2017
+    * Presentation of group results
+    * 7th task presentation **Helge**, see today's slides
+    * Hand-in: 25. 4. 2017 24:00 via Github
+    * [24-Neural Networks.ipynb](notebooks/24-Neural%20Networks.ipynb)
   * Friday, 21 April, 2017
+    * Presentation of group results
+    * [25-OpenCV.ipynb](notebooks/25-OpenCV.ipynb)
   * Wednesday, 26 April, 2017
+    * [26-Movement Detection.ipynb](notebooks/26-Movement%20Detection.ipynb)
   * Wednesday, 03 May, 2017
+    * Project Workshop
   * Friday, 05 May, 2017
+    * Project Workshop
   * Wednesday, 10 May, 2017
+    * Project Workshop
   * Wednesday, 17 May, 2017
+    * Project Workshop
   * Friday, 19 May, 2017
+    * Project Workshop
 
 ## Hand-in Project
 
