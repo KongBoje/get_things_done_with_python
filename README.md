@@ -126,7 +126,11 @@ Always 8:30 to 12:00 in room 103
     * Project Workshop
   * Friday, 19 May, 2017
     * Project Workshop
-
+  * Wednesday, 17 May, 2017
+    * Announcement of winners of task competition
+    * Hygge with coffee and cake
+    * Project Workshop, polish the last pieces of your projects
+    * Hand-in see below
 ## Hand-in Project
 
   * Wednesday, 24 May, 2017
@@ -134,3 +138,15 @@ Always 8:30 to 12:00 in room 103
     You hand in the project by uploading a link to your group's repository on Github to Moodle. Latest hand-in time is 24:00 on Wednesday, 24 May 2017.
   
     **OBS** You have to provide a link to a **release version** of your project, see https://help.github.com/articles/creating-releases/ and https://help.github.com/articles/linking-to-releases/ for how to create a release and how to link to it.
+
+
+# Links to Group's Repositories
+
+Many of you were asking for the links to your fellow student's repositories. Here they are:
+
+  * Depressed Year:  https://github.com/edipetres/Depressed_Year
+  * Enthusiastic Phone: https://github.com/stinaanita/python_data
+  * Frantic Midnight: https://github.com/DaMexicanJustice/frantic_midnight
+  * Jealous Secretary: https://github.com/ziemerz/UnrulyKnife, .../IMDb, .../vgsales, https://github.com/Skiparin/Aviation, .../HDpython
+  * Unruly Knife: https://github.com/szEIgo?tab=repositories
+  * Motionless Revolution: https://github.com/Shmilowitz?tab=repositories
